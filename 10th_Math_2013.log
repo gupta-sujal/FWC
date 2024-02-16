@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.9.6)  16 FEB 2024 11:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.9.6)  16 FEB 2024 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -22,6 +22,7 @@ LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 5
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
+** ATTENTION: Single column mode is not typically used with IEEE publications.
 -- Using 8.5in x 11in (letter) paper.
 -- Using PDF output.
 \@IEEEnormalsizeunitybaselineskip=\dimen143
@@ -871,8 +872,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout5 = `10th_Math_2013.toc'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 296--298
-[]\OT1/ptm/m/n/12 The com-mon dif-fer-ence of the AP
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
  []
 
 
@@ -885,61 +891,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 299--300
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--302
-
- []
-
 <1.png, id=28, 148.555pt x 132.495pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 308.
-(pdftex.def)             Requested size: 252.0pt x 224.76743pt.
+Package pdftex.def Info: 1.png  used on input line 306.
+(pdftex.def)             Requested size: 258.0pt x 230.14316pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 313--314
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 314--315
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
 
  []
 
 <2.png, id=31, 178.6675pt x 146.5475pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 322.
-(pdftex.def)             Requested size: 252.0pt x 206.708pt.
+Package pdftex.def Info: 2.png  used on input line 320.
+(pdftex.def)             Requested size: 258.0pt x 211.62971pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 327--328
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
-
- []
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-
-
- <./1.png> <./2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 330--334
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--336
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
 
  []
 
@@ -948,13 +951,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 336--337
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+[2 <./1.png> <./2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
 
  []
 
@@ -964,12 +967,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 344--345
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--346
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--347
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
 
  []
 
@@ -978,99 +981,82 @@ Underfull \hbox (badness 10000) in paragraph at lines 352--353
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 353--354
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
-
- []
-
-<3.png, id=63, 285.065pt x 196.735pt>
+<3.png, id=74, 285.065pt x 196.735pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
-Package pdftex.def Info: 3.png  used on input line 360.
-(pdftex.def)             Requested size: 252.0pt x 173.91382pt.
+Package pdftex.def Info: 3.png  used on input line 358.
+(pdftex.def)             Requested size: 258.0pt x 178.05647pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 366--367
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 367--368
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[3 <./3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 372--373
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 373--374
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 374--375
-
- []
-
-<4.png, id=65, 196.735pt x 184.69pt>
+<4.png, id=102, 196.735pt x 184.69pt>
 File: 4.png Graphic file (type png)
 <use 4.png>
-Package pdftex.def Info: 4.png  used on input line 383.
-(pdftex.def)             Requested size: 252.0pt x 236.57146pt.
-[2 <./3.png>]
-Underfull \hbox (badness 4229) in paragraph at lines 392--393
-[]\OT1/ptm/m/n/12 Find the num-bers of terms of the AP
- []
-
-<5.png, id=110, 199.74625pt x 180.675pt>
+Package pdftex.def Info: 4.png  used on input line 381.
+(pdftex.def)             Requested size: 258.0pt x 242.22182pt.
+[4 <./4.png>]
+<5.png, id=123, 199.74625pt x 180.675pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
-Package pdftex.def Info: 5.png  used on input line 400.
-(pdftex.def)             Requested size: 252.0pt x 227.95218pt.
+Package pdftex.def Info: 5.png  used on input line 398.
+(pdftex.def)             Requested size: 258.0pt x 233.39702pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--410
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 413--414
+Underfull \hbox (badness 10000) in paragraph at lines 406--408
 
  []
 
-[3 <./4.png> <./5.png>]
-<6.png, id=136, 291.0875pt x 207.77625pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+
+ []
+
+<6.png, id=125, 291.0875pt x 207.77625pt>
 File: 6.png Graphic file (type png)
 <use 6.png>
-Package pdftex.def Info: 6.png  used on input line 416.
-(pdftex.def)             Requested size: 252.0pt x 179.87932pt.
- [4
+Package pdftex.def Info: 6.png  used on input line 414.
+(pdftex.def)             Requested size: 258.0pt x 184.17204pt.
+[5 <./5.png>] [6 <./6.png>] (./10th_Math_2013.aux)
 
- <./6.png>] (./10th_Math_2013.aux)
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `10th_Math_2013.out' has not changed.
 (rerunfilecheck)             Checksum: 318A0EAA72705C63555A68C195DDB6D4;364.
  ) 
 Here is how much of TeX's memory you used:
- 23808 strings out of 476091
- 436408 string characters out of 5794082
- 1869330 words of memory out of 5000000
+ 23810 strings out of 476091
+ 436419 string characters out of 5794082
+ 1864330 words of memory out of 5000000
  43694 multiletter control sequences out of 15000+600000
- 554672 words of font info for 126 fonts, out of 8000000 for 9000
+ 554654 words of font info for 126 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 102i,7n,104p,506b,748s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,7n,104p,506b,747s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/
@@ -1079,12 +1065,11 @@ ype1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on 10th_Math_2013.pdf (4 pages, 251398 bytes).
+pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on 10th_Math_2013.pdf (6 pages, 241420 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
- 82 named destinations out of 1000 (max. 500000)
+ 213 PDF objects out of 1000 (max. 8388607)
+ 173 compressed objects within 2 object streams
+ 84 named destinations out of 1000 (max. 500000)
  75 words of extra memory for PDF output out of 10000 (max. 10000000)
 
