@@ -1,4 +1,6 @@
-\contentsline {section}{\numberline {1}Section A}{1}{section.1}%
-\contentsline {section}{\numberline {2}Section B}{4}{section.2}%
-\contentsline {section}{\numberline {3}Section C}{4}{section.3}%
-\contentsline {section}{\numberline {4}Section D}{5}{section.4}%
+\contentsline {section}{\numberline {1}Algebra}{1}{section.1}%
+\contentsline {section}{\numberline {2}Geometry}{1}{section.2}%
+\contentsline {section}{\numberline {3}Trigonometry}{5}{section.3}%
+\contentsline {section}{\numberline {4}Probability}{5}{section.4}%
+\contentsline {section}{\numberline {5}Construction}{6}{section.5}%
+\contentsline {section}{\numberline {6}Coordinate Geometry}{6}{section.6}%
