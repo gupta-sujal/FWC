@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.9.6)  19 FEB 2024 00:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.9.6)  20 FEB 2024 00:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1278,71 +1278,71 @@ Package pdftex.def Info: 4.png  used on input line 169.
 <5.png, id=100, 291.0875pt x 207.77625pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
-Package pdftex.def Info: 5.png  used on input line 184.
+Package pdftex.def Info: 5.png  used on input line 187.
 (pdftex.def)             Requested size: 243.91125pt x 174.106pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
-
- []
-
-[4 <./4.png> <./5.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 193--197
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 197--198
+Underfull \hbox (badness 10000) in paragraph at lines 196--200
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+[4 <./4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+Underfull \hbox (badness 10000) in paragraph at lines 213--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--212
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 218--219
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
 
-[5]
-<6.png, id=139, 199.74625pt x 180.675pt>
+[5 <./5.png>]
+<6.png, id=142, 199.74625pt x 180.675pt>
 File: 6.png Graphic file (type png)
 <use 6.png>
-Package pdftex.def Info: 6.png  used on input line 231.
+Package pdftex.def Info: 6.png  used on input line 234.
 (pdftex.def)             Requested size: 243.91125pt x 220.63544pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--236
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
 
  []
 
@@ -1351,24 +1351,25 @@ Package rerunfilecheck Info: File `10th_Math_2013.out' has not changed.
 (rerunfilecheck)             Checksum: 31C4D053DD27EE3C62F77BD99E1EDF2D;606.
  ) 
 Here is how much of TeX's memory you used:
- 30974 strings out of 476091
- 608466 string characters out of 5794082
+ 30981 strings out of 476091
+ 608534 string characters out of 5794082
  1868330 words of memory out of 5000000
- 50730 multiletter control sequences out of 15000+600000
- 547932 words of font info for 128 fonts, out of 8000000 for 9000
+ 50733 multiletter control sequences out of 15000+600000
+ 551049 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,8n,91p,416b,1207s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txf
-onts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 10th_Math_2013.pdf (6 pages, 196448 bytes).
+1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txf
+onts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on 10th_Math_2013.pdf (6 pages, 199065 bytes).
 PDF statistics:
- 207 PDF objects out of 1000 (max. 8388607)
- 171 compressed objects within 2 object streams
- 85 named destinations out of 1000 (max. 500000)
+ 214 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
+ 87 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
