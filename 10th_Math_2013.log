@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.9.6)  20 FEB 2024 00:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.9.6)  22 FEB 2024 11:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1192,12 +1192,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--115
 
  []
 
-<1.png, id=32, 148.555pt x 132.495pt>
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 117.
+
+LaTeX Warning: Reference `fig:fig1' on page 1 undefined on input line 117.
+
+<1.png, id=31, 148.555pt x 132.495pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
 Package pdftex.def Info: 1.png  used on input line 122.
-(pdftex.def)             Requested size: 243.91125pt x 217.55196pt.
+(pdftex.def)             Requested size: 487.82251pt x 435.15244pt.
+[1
 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
@@ -1212,7 +1219,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
-<2.png, id=35, 178.6675pt x 146.5475pt>
+
+LaTeX Warning: Reference `fig:fig2' on page 2 undefined on input line 132.
+
+<2.png, id=55, 178.6675pt x 146.5475pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
 Package pdftex.def Info: 2.png  used on input line 136.
@@ -1222,9 +1232,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
-[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./1.png> <./2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
@@ -1234,12 +1242,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 143--144
 
  []
 
-<3.png, id=71, 285.065pt x 196.735pt>
+[2 <./1.png>]
+
+LaTeX Warning: Reference `fig:fig3' on page 3 undefined on input line 146.
+
+<3.png, id=69, 285.065pt x 196.735pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
 Package pdftex.def Info: 3.png  used on input line 149.
-(pdftex.def)             Requested size: 243.91125pt x 168.33322pt.
-
+(pdftex.def)             Requested size: 487.82251pt x 336.66646pt.
+[3 <./2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
@@ -1269,17 +1281,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
-<4.png, id=73, 196.735pt x 184.69pt>
+
+LaTeX Warning: Reference `fig:fig4' on page 4 undefined on input line 166.
+
+<4.png, id=80, 196.735pt x 184.69pt>
 File: 4.png Graphic file (type png)
 <use 4.png>
 Package pdftex.def Info: 4.png  used on input line 169.
-(pdftex.def)             Requested size: 243.91125pt x 228.97656pt.
-[3 <./3.png>]
-<5.png, id=100, 291.0875pt x 207.77625pt>
+(pdftex.def)             Requested size: 487.82251pt x 457.98978pt.
+[4 <./3.png>] [5 <./4.png>]
+<5.png, id=111, 291.0875pt x 207.77625pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
 Package pdftex.def Info: 5.png  used on input line 187.
-(pdftex.def)             Requested size: 243.91125pt x 174.106pt.
+(pdftex.def)             Requested size: 487.82251pt x 348.23105pt.
+
+
+LaTeX Warning: Reference `fig:fig5' on page 6 undefined on input line 191.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 191--192
 
@@ -1295,7 +1314,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--201
 
  []
 
-[4 <./4.png>]
+[6 <./5.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 201--202
 
  []
@@ -1335,29 +1354,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
 
-[5 <./5.png>]
-<6.png, id=142, 199.74625pt x 180.675pt>
+<6.png, id=125, 199.74625pt x 180.675pt>
 File: 6.png Graphic file (type png)
 <use 6.png>
 Package pdftex.def Info: 6.png  used on input line 234.
-(pdftex.def)             Requested size: 243.91125pt x 220.63544pt.
+(pdftex.def)             Requested size: 487.82251pt x 441.30397pt.
+[7]
+
+LaTeX Warning: Reference `fig:fig6' on page 8 undefined on input line 238.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 238--239
 
  []
 
-[6 <./6.png>] (./10th_Math_2013.aux)
+[8 <./6.png>] (./10th_Math_2013.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `10th_Math_2013.out' has not changed.
 (rerunfilecheck)             Checksum: 31C4D053DD27EE3C62F77BD99E1EDF2D;606.
  ) 
 Here is how much of TeX's memory you used:
- 30981 strings out of 476091
- 608534 string characters out of 5794082
- 1868330 words of memory out of 5000000
- 50733 multiletter control sequences out of 15000+600000
+ 30991 strings out of 476091
+ 608630 string characters out of 5794082
+ 1865330 words of memory out of 5000000
+ 50741 multiletter control sequences out of 15000+600000
  551049 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,8n,91p,416b,1207s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,8n,91p,416b,1202s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type
@@ -1366,10 +1391,10 @@ onts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 10th_Math_2013.pdf (6 pages, 199065 bytes).
+Output written on 10th_Math_2013.pdf (8 pages, 200277 bytes).
 PDF statistics:
- 214 PDF objects out of 1000 (max. 8388607)
- 176 compressed objects within 2 object streams
- 87 named destinations out of 1000 (max. 500000)
+ 218 PDF objects out of 1000 (max. 8388607)
+ 178 compressed objects within 2 object streams
+ 89 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
