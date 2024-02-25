@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.9.6)  25 FEB 2024 23:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.9.6)  25 FEB 2024 23:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1331,17 +1331,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 223--224
 
  []
 
-<6.png, id=130, 199.74625pt x 180.675pt>
+<6.png, id=131, 199.74625pt x 180.675pt>
 File: 6.png Graphic file (type png)
 <use 6.png>
-Package pdftex.def Info: 6.png  used on input line 235.
+Package pdftex.def Info: 6.png  used on input line 237.
 (pdftex.def)             Requested size: 487.82251pt x 441.30397pt.
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--240
 
  []
 
-[8 <./6.png>] (./10th_Math_2013.aux)
+[7] [8 <./6.png>] (./10th_Math_2013.aux)
 Package rerunfilecheck Info: File `10th_Math_2013.out' has not changed.
 (rerunfilecheck)             Checksum: 31C4D053DD27EE3C62F77BD99E1EDF2D;606.
  ) 
@@ -1361,7 +1361,7 @@ onts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 10th_Math_2013.pdf (8 pages, 199991 bytes).
+Output written on 10th_Math_2013.pdf (8 pages, 199996 bytes).
 PDF statistics:
  224 PDF objects out of 1000 (max. 8388607)
  184 compressed objects within 2 object streams
